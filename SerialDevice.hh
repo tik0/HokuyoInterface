@@ -42,6 +42,7 @@
 #include <string.h>
 #include <iostream>
 #include <fcntl.h>
+#include <unistd.h>
 #include <sys/ioctl.h>
 #include <termios.h>
 #include <sys/time.h>

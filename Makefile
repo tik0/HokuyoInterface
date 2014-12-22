@@ -3,7 +3,6 @@ ifndef MATLAB_DIR
 endif
 
 MEX=$(MATLAB_DIR)/bin/mex
-CXX=g++
 
 
 MEXFLAGS = -I$(MATLAB_DIR)/extern/include
